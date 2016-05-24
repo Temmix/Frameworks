@@ -1,0 +1,5 @@
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncAwaitingInParallel\bin\Debug\AsyncAwaitingInParallel.exe.config
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncAwaitingInParallel\bin\Debug\AsyncAwaitingInParallel.exe
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncAwaitingInParallel\bin\Debug\AsyncAwaitingInParallel.pdb
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncAwaitingInParallel\obj\x86\Debug\AsyncAwaitingInParallel.exe
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncAwaitingInParallel\obj\x86\Debug\AsyncAwaitingInParallel.pdb

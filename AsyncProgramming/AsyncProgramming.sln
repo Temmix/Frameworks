@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming", "AsyncProgramming.csproj", "{68F3FF75-4769-4C58-BA62-482AF6678D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitingInSequence", "AsyncAwaitingInSequence\AsyncAwaitingInSequence.csproj", "{56377194-639C-44D1-84D9-A3DA06D5271A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitingInParallel", "AsyncAwaitingInParallel\AsyncAwaitingInParallel.csproj", "{57AD6CD8-9442-4E08-A54F-6B318DBFFFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncExceptionHandling", "AsyncExceptionHandling\AsyncExceptionHandling.csproj", "{247501C6-9E68-4649-A082-BC9CD198FE82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCancellation", "AsyncCancellation\AsyncCancellation.csproj", "{D2FB4D64-6DC6-4940-A1DD-7D1B3A440A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgressReporting", "AsyncProgressReporting\AsyncProgressReporting.csproj", "{8825868C-887F-491F-A06C-7B4BA7CD078B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynReturnValue", "AsynReturnValue\AsynReturnValue.csproj", "{7E7D858D-1EFC-4BA4-A67D-28B1519D92C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F3FF75-4769-4C58-BA62-482AF6678D7E}.Debug|x86.ActiveCfg = Debug|x86
+		{68F3FF75-4769-4C58-BA62-482AF6678D7E}.Debug|x86.Build.0 = Debug|x86
+		{68F3FF75-4769-4C58-BA62-482AF6678D7E}.Release|x86.ActiveCfg = Release|x86
+		{68F3FF75-4769-4C58-BA62-482AF6678D7E}.Release|x86.Build.0 = Release|x86
+		{56377194-639C-44D1-84D9-A3DA06D5271A}.Debug|x86.ActiveCfg = Debug|x86
+		{56377194-639C-44D1-84D9-A3DA06D5271A}.Debug|x86.Build.0 = Debug|x86
+		{56377194-639C-44D1-84D9-A3DA06D5271A}.Release|x86.ActiveCfg = Release|x86
+		{56377194-639C-44D1-84D9-A3DA06D5271A}.Release|x86.Build.0 = Release|x86
+		{57AD6CD8-9442-4E08-A54F-6B318DBFFFB8}.Debug|x86.ActiveCfg = Debug|x86
+		{57AD6CD8-9442-4E08-A54F-6B318DBFFFB8}.Debug|x86.Build.0 = Debug|x86
+		{57AD6CD8-9442-4E08-A54F-6B318DBFFFB8}.Release|x86.ActiveCfg = Release|x86
+		{57AD6CD8-9442-4E08-A54F-6B318DBFFFB8}.Release|x86.Build.0 = Release|x86
+		{247501C6-9E68-4649-A082-BC9CD198FE82}.Debug|x86.ActiveCfg = Debug|x86
+		{247501C6-9E68-4649-A082-BC9CD198FE82}.Debug|x86.Build.0 = Debug|x86
+		{247501C6-9E68-4649-A082-BC9CD198FE82}.Release|x86.ActiveCfg = Release|x86
+		{247501C6-9E68-4649-A082-BC9CD198FE82}.Release|x86.Build.0 = Release|x86
+		{D2FB4D64-6DC6-4940-A1DD-7D1B3A440A6E}.Debug|x86.ActiveCfg = Debug|x86
+		{D2FB4D64-6DC6-4940-A1DD-7D1B3A440A6E}.Debug|x86.Build.0 = Debug|x86
+		{D2FB4D64-6DC6-4940-A1DD-7D1B3A440A6E}.Release|x86.ActiveCfg = Release|x86
+		{D2FB4D64-6DC6-4940-A1DD-7D1B3A440A6E}.Release|x86.Build.0 = Release|x86
+		{8825868C-887F-491F-A06C-7B4BA7CD078B}.Debug|x86.ActiveCfg = Debug|x86
+		{8825868C-887F-491F-A06C-7B4BA7CD078B}.Debug|x86.Build.0 = Debug|x86
+		{8825868C-887F-491F-A06C-7B4BA7CD078B}.Release|x86.ActiveCfg = Release|x86
+		{8825868C-887F-491F-A06C-7B4BA7CD078B}.Release|x86.Build.0 = Release|x86
+		{7E7D858D-1EFC-4BA4-A67D-28B1519D92C1}.Debug|x86.ActiveCfg = Debug|x86
+		{7E7D858D-1EFC-4BA4-A67D-28B1519D92C1}.Debug|x86.Build.0 = Debug|x86
+		{7E7D858D-1EFC-4BA4-A67D-28B1519D92C1}.Release|x86.ActiveCfg = Release|x86
+		{7E7D858D-1EFC-4BA4-A67D-28B1519D92C1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

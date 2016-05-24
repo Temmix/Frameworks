@@ -1,0 +1,5 @@
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncProgressReporting\bin\Debug\AsyncProgressReporting.exe.config
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncProgressReporting\bin\Debug\AsyncProgressReporting.exe
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncProgressReporting\bin\Debug\AsyncProgressReporting.pdb
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncProgressReporting\obj\x86\Debug\AsyncProgressReporting.exe
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\AsyncProgramming\AsyncProgressReporting\obj\x86\Debug\AsyncProgressReporting.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\temi\KnockOutApplication\bin\KnockOutApplication.dll
+C:\Users\Administrator\Desktop\temi\KnockOutApplication\bin\KnockOutApplication.pdb
+C:\Users\Administrator\Desktop\temi\KnockOutApplication\obj\Debug\KnockOutApplication.dll
+C:\Users\Administrator\Desktop\temi\KnockOutApplication\obj\Debug\KnockOutApplication.pdb
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\KnockOutApplication\bin\KnockOutApplication.dll
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\KnockOutApplication\bin\KnockOutApplication.pdb
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\KnockOutApplication\obj\Debug\KnockOutApplication.csprojResolveAssemblyReference.cache
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\KnockOutApplication\obj\Debug\KnockOutApplication.dll
+C:\Users\TEMI\Desktop\COMPLETE .NET FRAMWORK\KnockOutApplication\obj\Debug\KnockOutApplication.pdb
